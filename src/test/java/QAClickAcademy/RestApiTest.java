@@ -16,6 +16,13 @@ public class RestApiTest {
 		System.out.println("postJira4");
 		System.out.println("postJira5");
 		System.out.println("postJira6");
+		//changes again done
+		System.out.println("postJira7");
+		System.out.println("postJira8");
+		System.out.println("postJira9");
+		System.out.println("postJira10");
+		System.out.println("postJira11");
+		System.out.println("postJira12");
 	}
 	
 	@Test
